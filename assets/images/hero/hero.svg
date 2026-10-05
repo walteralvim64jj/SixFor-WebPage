@@ -1,0 +1,20 @@
+<svg width="1600" height="1000" viewBox="0 0 1600 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="1000" fill="#111111"/>
+  <rect y="700" width="1600" height="300" fill="#232323"/>
+  <g opacity="0.55">
+    <path d="M0 690C165 618 301 624 452 690C605 756 751 759 895 695C1055 625 1176 635 1336 707C1442 760 1536 754 1600 732V1000H0V690Z" fill="#2A2A2A"/>
+  </g>
+  <g opacity="0.9">
+    <path d="M1031 190L1367 181L1228 584H890L1031 190Z" fill="#D5B57C" fill-opacity="0.22"/>
+    <path d="M918 539H1209L1295 748H832L918 539Z" fill="#D5B57C" fill-opacity="0.28"/>
+  </g>
+  <g>
+    <path d="M542 610L659 270L781 610H542Z" fill="#F3F1EE"/>
+    <path d="M781 610L892 310L1018 610H781Z" fill="#D5B57C" fill-opacity="0.7"/>
+    <path d="M604 610L716 364L816 610H604Z" fill="#1A1A1A"/>
+    <path d="M843 610L944 392L1024 610H843Z" fill="#1A1A1A"/>
+    <circle cx="720" cy="216" r="42" fill="#D5B57C"/>
+  </g>
+  <text x="132" y="233" fill="#F6F3EE" font-family="Arial, sans-serif" font-size="84" font-weight="700" letter-spacing="13">SIX FOR</text>
+  <text x="132" y="320" fill="#D5B57C" font-family="Arial, sans-serif" font-size="54" font-weight="700" letter-spacing="8">JIU-JITSU</text>
+</svg>

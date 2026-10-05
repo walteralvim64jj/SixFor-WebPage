@@ -1,0 +1,8 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="760" fill="#F0E9E2"/>
+  <rect x="106" y="96" width="988" height="568" rx="24" fill="#D8C7A6"/>
+  <path d="M238 570L442 206L560 396L820 206L976 570H238Z" fill="#1A1A1A"/>
+  <path d="M314 570L494 282L628 438L814 286L930 570H314Z" fill="#E7D9BF" fill-opacity="0.8"/>
+  <rect x="304" y="136" width="592" height="86" rx="18" fill="#FBF8F4" fill-opacity="0.78"/>
+  <text x="600" y="192" text-anchor="middle" fill="#121212" font-family="Arial, sans-serif" font-size="46" font-weight="700">MANOEL HONÓRIO</text>
+</svg>

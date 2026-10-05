@@ -1,0 +1,8 @@
+<svg width="800" height="1000" viewBox="0 0 800 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="1000" fill="#EFE7DD"/>
+  <rect x="110" y="90" width="580" height="820" rx="28" fill="#D6C7B5"/>
+  <circle cx="400" cy="360" r="150" fill="#1B1B1B"/>
+  <path d="M238 776C270 660 330 608 400 608C470 608 530 660 562 776H238Z" fill="#1B1B1B"/>
+  <rect x="200" y="160" width="400" height="82" rx="18" fill="#F7F4F0" fill-opacity="0.8"/>
+  <text x="400" y="214" text-anchor="middle" fill="#111111" font-family="Arial, sans-serif" font-size="28" font-weight="700">LUCAS ARAÚJO</text>
+</svg>

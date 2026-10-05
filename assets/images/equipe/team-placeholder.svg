@@ -1,0 +1,8 @@
+<svg width="900" height="640" viewBox="0 0 900 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="640" fill="#E7DFD6"/>
+  <rect x="84" y="76" width="732" height="488" rx="28" fill="#CAC2B8"/>
+  <circle cx="450" cy="264" r="132" fill="#2B2928"/>
+  <path d="M314 462C327 386 385 338 450 338C515 338 573 386 586 462H314Z" fill="#20201F"/>
+  <rect x="227" y="110" width="447" height="94" rx="18" fill="#F6F3EE" fill-opacity="0.82"/>
+  <text x="450" y="170" text-anchor="middle" fill="#111111" font-family="Arial, sans-serif" font-size="38" font-weight="700">EQUIPE</text>
+</svg>
