@@ -1,0 +1,8 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="760" fill="#F3F0EC"/>
+  <rect x="106" y="96" width="988" height="568" rx="24" fill="#C9C1B6"/>
+  <path d="M224 570L438 226L632 468L818 234L976 570H224Z" fill="#171717"/>
+  <path d="M292 570L472 304L608 426L800 266L936 570H292Z" fill="#D8B98D" fill-opacity="0.8"/>
+  <rect x="258" y="136" width="684" height="86" rx="18" fill="#F8F5F1" fill-opacity="0.82"/>
+  <text x="600" y="192" text-anchor="middle" fill="#111111" font-family="Arial, sans-serif" font-size="46" font-weight="700">SÃO MATEUS</text>
+</svg>

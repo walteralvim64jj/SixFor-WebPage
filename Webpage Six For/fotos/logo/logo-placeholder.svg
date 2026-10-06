@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <rect width="800" height="400" fill="#111111"/>
+  <rect x="80" y="70" width="640" height="260" rx="26" fill="#f4f1ec" opacity="0.08"/>
+  <circle cx="240" cy="200" r="110" fill="#c9ad7b" opacity="0.18"/>
+  <text x="400" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#f4f1ec" letter-spacing="8">SIX FOR</text>
+  <text x="400" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="600" fill="#c9ad7b" letter-spacing="10">JIU-JITSU</text>
+</svg>

@@ -1,0 +1,61 @@
+{
+  "generatedAt": "2026-10-06T18:04:27.382Z",
+  "categories": [
+    {
+      "id": "hero",
+      "title": "Capa da página inicial",
+      "folder": "images/hero",
+      "usage": "A primeira foto em ordem alfabética é o fundo do hero da página inicial.",
+      "required": false,
+      "images": []
+    },
+    {
+      "id": "manoel-honorio",
+      "title": "Unidade Manoel Honório",
+      "folder": "images/unidades/manoel-honorio",
+      "usage": "Todas as fotos passam pelo cartão da unidade; use as setas para navegar.",
+      "required": false,
+      "images": []
+    },
+    {
+      "id": "sao-mateus",
+      "title": "Unidade São Mateus",
+      "folder": "images/unidades/sao-mateus",
+      "usage": "Todas as fotos passam pelo cartão da unidade; use as setas para navegar.",
+      "required": false,
+      "images": []
+    },
+    {
+      "id": "equipe",
+      "title": "Equipe",
+      "folder": "images/equipe",
+      "usage": "Galeria ao lado da lista dos seis integrantes; as fotos não são associadas a nomes.",
+      "required": false,
+      "images": []
+    },
+    {
+      "id": "treinos",
+      "title": "Treinos",
+      "folder": "images/treinos",
+      "usage": "A primeira foto em ordem alfabética ilustra a aula experimental; todas aparecem na galeria de treinos.",
+      "required": false,
+      "images": []
+    },
+    {
+      "id": "eventos",
+      "title": "Eventos e competições",
+      "folder": "images/eventos",
+      "usage": "Galeria de eventos e competições na página inicial.",
+      "required": false,
+      "images": []
+    },
+    {
+      "id": "kids",
+      "title": "Kids",
+      "folder": "images/kids",
+      "usage": "Galeria Kids na página inicial.",
+      "required": false,
+      "images": []
+    }
+  ]
+}
