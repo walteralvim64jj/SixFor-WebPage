@@ -1,8 +1,0 @@
-<svg width="900" height="640" viewBox="0 0 900 640" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="900" height="640" fill="#F3EFEA"/>
-  <rect x="112" y="88" width="676" height="464" rx="24" fill="#D6C9B7"/>
-  <path d="M184 462L344 180L458 330L626 168L714 462H184Z" fill="#171717"/>
-  <path d="M205 462L346 248L425 334L572 224L715 462H205Z" fill="#D5B57C" fill-opacity="0.75"/>
-  <rect x="226" y="118" width="448" height="74" rx="18" fill="#F8F5F1" fill-opacity="0.72"/>
-  <text x="450" y="167" text-anchor="middle" fill="#111111" font-family="Arial, sans-serif" font-size="32" font-weight="700">HISTÓRIA</text>
-</svg>
